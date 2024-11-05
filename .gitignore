@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+dataset/ptb.*
+*.py[cod]
+*$py.class
+ch04/cbow_params.*
